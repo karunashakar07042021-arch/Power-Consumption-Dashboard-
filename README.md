@@ -14,6 +14,9 @@ Explore the implementation of Data Analysis Expressions (DAX) measures to derive
 Build a user-friendly dashboard with a Navigation Bar for easy access to different sections, enhancing overall user experience.
 # Bookmarks and Page Navigator Button
 Implement bookmarks and a Page Navigator button for seamless navigation through the dashboard, providing a polished and interactive interface.
+# 📌 Author
+# Karuna Shakar M
+AI-Driven Data Analyst || Supply Chain Analytics ||  BI Developer || Business Intelligence || Power BI ||Tableau || Looker || SQL || Python || Sigma || Snowflake || Java Script || HTML || Freelancer
 
 
 
